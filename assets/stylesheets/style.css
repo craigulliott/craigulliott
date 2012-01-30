@@ -1,0 +1,34 @@
+body {
+  background-color: #F1F1F1;
+  font-family: "p22-franklin-caslon",serif;
+}
+#container {
+  text-align: center;
+}
+
+#navigation {
+  float: right;
+  width: 300px;
+}
+
+#navigation ul {
+  list-style: none;
+}
+
+#navigation ul a {
+  color: #555;
+}
+
+#content {
+  float: left;
+  width: 500px;
+}
+
+
+h1 {
+  font-size: 3em;
+}
+
+p {
+  font-size: 2em;
+}
